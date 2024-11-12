@@ -1,0 +1,16 @@
+C:\Users\Rog\source\repos\HW.colours\HW.colours\obj\Debug\net8.0-windows\HW.colours.Form1.resources
+C:\Users\Rog\source\repos\HW.colours\HW.colours\obj\Debug\net8.0-windows\HW.colours.csproj.GenerateResource.cache
+C:\Users\Rog\source\repos\HW.colours\HW.colours\obj\Debug\net8.0-windows\HW.colours.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rog\source\repos\HW.colours\HW.colours\obj\Debug\net8.0-windows\HW.colours.AssemblyInfoInputs.cache
+C:\Users\Rog\source\repos\HW.colours\HW.colours\obj\Debug\net8.0-windows\HW.colours.AssemblyInfo.cs
+C:\Users\Rog\source\repos\HW.colours\HW.colours\obj\Debug\net8.0-windows\HW.colours.csproj.CoreCompileInputs.cache
+C:\Users\Rog\source\repos\HW.colours\HW.colours\bin\Debug\net8.0-windows\HW.colours.exe
+C:\Users\Rog\source\repos\HW.colours\HW.colours\bin\Debug\net8.0-windows\HW.colours.deps.json
+C:\Users\Rog\source\repos\HW.colours\HW.colours\bin\Debug\net8.0-windows\HW.colours.runtimeconfig.json
+C:\Users\Rog\source\repos\HW.colours\HW.colours\bin\Debug\net8.0-windows\HW.colours.dll
+C:\Users\Rog\source\repos\HW.colours\HW.colours\bin\Debug\net8.0-windows\HW.colours.pdb
+C:\Users\Rog\source\repos\HW.colours\HW.colours\obj\Debug\net8.0-windows\HW.colours.dll
+C:\Users\Rog\source\repos\HW.colours\HW.colours\obj\Debug\net8.0-windows\refint\HW.colours.dll
+C:\Users\Rog\source\repos\HW.colours\HW.colours\obj\Debug\net8.0-windows\HW.colours.pdb
+C:\Users\Rog\source\repos\HW.colours\HW.colours\obj\Debug\net8.0-windows\HW.colours.genruntimeconfig.cache
+C:\Users\Rog\source\repos\HW.colours\HW.colours\obj\Debug\net8.0-windows\ref\HW.colours.dll
